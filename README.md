@@ -1,5 +1,4 @@
 # Hi!
-## About me
 My name is Danila Mokeev and I am a final year student in Applied Mathematics at [UCLouvain](https://uclouvain.be/fr/index.html) in Belgium.
 My thesis is on efficient [MCMC](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) methods for density matrix estimation in [Quantum Tomography](https://en.wikipedia.org/wiki/Quantum_tomography) (have a look [here](https://arxiv.org/abs/1605.05933) for a brief overview). I was previously an exchange student at [Aalto University](https://www.aalto.fi/en) in Finland.
 
