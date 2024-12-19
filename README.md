@@ -2,7 +2,7 @@
 
 My name is Daniel Mokeev and I am a compiler engineer at Synopsys. 
 
-My interests span systems programming and programming languages, in particular understanding the internals of modern systems and tools. 
+My interests span systems and programming languages, in particular the internals of modern systems and tools. 
 
 In my past life, I worked on Machine Learning and studied Applied Mathematics.
 
