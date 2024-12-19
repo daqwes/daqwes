@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Daniel Mokeev and I am a compiler engineer at Synopsys. 
+My name is Daniel Mokeev and I am a compiler engineer at Synopsys, working on LLVM and NN compilers.
 
 My interests span systems and programming languages, in particular the internals of modern systems and tools. 
 
